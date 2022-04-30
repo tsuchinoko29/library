@@ -1,0 +1,6 @@
+#include "template/def_name.hpp"
+#include "template/header.hpp"
+#include "template/input.hpp"
+#include "template/output.hpp"
+#include "template/rep.hpp"
+using namespace std;
