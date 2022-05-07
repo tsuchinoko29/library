@@ -1,6 +1,11 @@
+#include "template/debug.hpp"
+#include "template/def_const.hpp"
 #include "template/def_name.hpp"
+#include "template/fast_io.hpp"
 #include "template/header.hpp"
 #include "template/input.hpp"
+#include "template/math.hpp"
 #include "template/output.hpp"
 #include "template/rep.hpp"
+#include "template/vector.hpp"
 using namespace std;
