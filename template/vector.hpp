@@ -69,3 +69,8 @@ std::vector<std::pair<T, int>> rle(const std::vector<T> &v) {
 	}
 	return ret;
 }
+std::vector<int> iota(int n) {
+	std::vector<int> p(n);
+	std::iota(p.begin(), p.end(), 0);
+	return p;
+}
