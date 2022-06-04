@@ -1,12 +1,5 @@
 #pragma once
-#include <algorithm>
-#include <cassert>
-#include <deque>
-#include <iostream>
-#include <queue>
-#include <tuple>
-#include <vector>
-
+#include "template/header.hpp"
 #pragma region graph
 
 template <class cost_type = long long>

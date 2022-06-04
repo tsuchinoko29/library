@@ -42,7 +42,7 @@ struct osa_k {
 		return spf[n];
 	}
 
-	bool is_rime(const int n) const {
+	bool is_prime(const int n) const {
 		return n == spf[n];
 	}
 };
